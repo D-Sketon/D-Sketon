@@ -5,6 +5,15 @@
 <div align="center"> <img src="https://metrics.lecoq.io/D-Sketon?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ## Metrics 👣
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=D-Sketon&theme=xcode" /> </div>
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Sketon&theme=dark&hide_border=true" />
+</div>
+<br>
+
+<div align="center">
+  <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&include_private=true&theme=classic" alt="Most Used Languages" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/D-Sketon/repos?time_range=one_month&theme=classic" alt="Most Contributed Repositories" width="300" />
+</div>
+<br>
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D-Sketon&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
