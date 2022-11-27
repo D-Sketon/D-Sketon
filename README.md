@@ -6,11 +6,6 @@
 
 ## Metrics 👣
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Sketon&theme=dark&hide_border=true" />
-</div>
-<br>
-
-<div align="center">
   <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&theme=classic&loc_metric=changed" alt="Most Used Languages" width="300"/>
   <img src="https://api.githubtrends.io/user/svg/D-Sketon/repos?time_range=one_year&theme=classic&loc_metric=changed" alt="Most Contributed Repositories" width="300" />
 </div>
