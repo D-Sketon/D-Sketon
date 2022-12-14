@@ -6,8 +6,8 @@
 
 ## Metrics 👣
 <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&theme=classic&loc_metric=changed" alt="Most Used Languages" width="300"/>
-  <img src="https://api.githubtrends.io/user/svg/D-Sketon/repos?time_range=one_year&theme=classic&loc_metric=changed&group=other" alt="Most Contributed Repositories" width="300" />
+  <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&theme=classic" alt="Most Used Languages" width="300"/>
+  <img src="https://api.githubtrends.io/user/svg/D-Sketon/repos?time_range=one_year&theme=classic&group=other" alt="Most Contributed Repositories" width="300" />
 </div>
 <br>
 
