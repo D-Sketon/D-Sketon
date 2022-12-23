@@ -1,4 +1,5 @@
-### Hi D-Sketon 🤣🤣🤣
+### Hi I'm D-Sketon
+A Touhou Otomader on Bilibili 🤣🤣🤣
 <div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div>
 
 ## About 😊
