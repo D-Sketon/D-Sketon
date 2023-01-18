@@ -1,6 +1,6 @@
 ### Hi I'm D-Sketon
 A Touhou Otomader on Bilibili 🤣🤣🤣
-<div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div>
+<!-- <div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div> -->
 
 ## About 😊
 <div align="center"> <img src="https://metrics.lecoq.io/D-Sketon?template=classic&config.timezone=Asia%2FShanghai"> </div>
