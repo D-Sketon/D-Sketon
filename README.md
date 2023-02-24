@@ -3,7 +3,7 @@ A Touhou Otomader on Bilibili 🤣🤣🤣
 <!-- <div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div> -->
 
 ## About 😊
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&show_icons=true&include_all_commits=true&count_private=true"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&count_private=true"> </div>
 
 ## Metrics 👣
 <div align="center">
