@@ -1,5 +1,5 @@
 ### Hi I'm D-Sketon
-A Touhou Otomader on Bilibili 🤣🤣🤣
+Member of [Hexo](https://github.com/hexojs) and [Theme ShokaX](https://github.com/theme-shoka-x)
 <!-- <div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div> -->
 
 ## About 😊
