@@ -1,6 +1,7 @@
 ### Hi I'm D-Sketon
 Member of [Hexo](https://github.com/hexojs) and [Theme ShokaX](https://github.com/theme-shoka-x)
-<!-- <div> <img src="https://visitor-badge.glitch.me/badge?page_id=D-Sketon" /> </div> -->
+
+![D-Sketon](https://count.getloli.com/get/@:D-Sketon)
 
 ## About 😊
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&count_private=true"> </div> -->
