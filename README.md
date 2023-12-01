@@ -5,6 +5,7 @@ Member of [Hexo](https://github.com/hexojs) and [Theme ShokaX](https://github.co
 ## About 😊
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&count_private=true"> </div> -->
 
+[![wakatime](https://wakatime.com/badge/user/a6ea8444-9e83-48bb-9744-09a19ac07114.svg)](https://wakatime.com/@a6ea8444-9e83-48bb-9744-09a19ac07114)    
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
