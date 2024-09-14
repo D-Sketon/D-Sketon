@@ -1,5 +1,7 @@
 ### Hi I'm D-Sketon
-Member of [Hexo](https://github.com/hexojs) and [Theme ShokaX](https://github.com/theme-shoka-x)
+Member of [Hexo](https://github.com/hexojs) and [Theme ShokaX](https://github.com/theme-shoka-x)    
+Contributor of [es-toolkit](https://github.com/toss/es-toolkit)  
+Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu)
 
 ![D-Sketon](https://count.getloli.com/get/@:D-Sketon)
 
