@@ -10,14 +10,14 @@ Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [ast
 ## About 😊
 <!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Sketon&count_private=true"> </div> -->
 
-[![wakatime](https://wakatime.com/badge/user/a6ea8444-9e83-48bb-9744-09a19ac07114.svg)](https://wakatime.com/@a6ea8444-9e83-48bb-9744-09a19ac07114)    
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![wakatime](https://wakatime.com/badge/user/a6ea8444-9e83-48bb-9744-09a19ac07114.svg)](https://wakatime.com/@a6ea8444-9e83-48bb-9744-09a19ac07114)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 ## Metrics 👣
 <!-- <div align="center">
