@@ -19,6 +19,10 @@ Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [ast
 ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
+## Sponsor
+
+[爱发电](https://afdian.tv/a/dsketon)
+
 ## Metrics 👣
 <!-- <div align="center">
   <img src="https://api.githubtrends.io/user/svg/D-Sketon/langs?time_range=one_year&theme=classic" alt="Most Used Languages" width="300"/>
