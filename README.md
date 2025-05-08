@@ -4,7 +4,7 @@ Contributor of [es-toolkit](https://github.com/toss/es-toolkit)
 Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [astro-theme-reimu](https://github.com/D-Sketon/astro-theme-reimu) and [hugo-theme-reimu](https://github.com/D-Sketon/hugo-theme-reimu)
 
 <!-- ![D-Sketon](https://count.getloli.com/get/@:D-Sketon) -->
-<img src="https://d-sketon.github.io/images/banner.webp" width="500" />
+<!--<img src="https://d-sketon.github.io/images/banner.webp" width="500" /> -->
 
 
 ## About 😊
@@ -19,9 +19,9 @@ Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [ast
 ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
-## Sponsor
+## Sponsor 💘
 
-[爱发电](https://afdian.tv/a/dsketon)
+[爱发电-afdian](https://afdian.tv/a/dsketon)
 
 ## Metrics 👣
 <!-- <div align="center">
