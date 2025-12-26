@@ -30,4 +30,4 @@ Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [ast
 </div>
 <br> -->
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D-Sketon&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center"><img src="https://github-profile-trophy-tawny.vercel.app/?username=D-Sketon&theme=nord&row=1&column=7&no-frame=true&no-bg=true" /></div>
