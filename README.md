@@ -21,7 +21,7 @@ Author of [hexo-theme-reimu](https://github.com/D-Sketon/hexo-theme-reimu), [ast
 
 ## Sponsor 💘
 
-[爱发电-afdian](https://afdian.tv/a/dsketon)
+[爱发电-afdian](https://afdian.com/a/dsketon)
 
 ## Metrics 👣
 <!-- <div align="center">
